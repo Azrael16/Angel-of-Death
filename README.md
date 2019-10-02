@@ -1,2 +1,2 @@
 # Angel-of-Death
-Program to terminate all illegal actions
+Firewall to terminate all illegal words in all code.
